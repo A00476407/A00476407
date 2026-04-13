@@ -1,25 +1,39 @@
-<!---
-- 👋 Hi, I’m @A00476407
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+# Hi there 👋, I'm Carmen Leung
 
-![kamanl16's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamanl16&show_icons=true&theme=shadow_blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamanl16&layout=compact&langs_count=8&card_width=800&theme=shadow_blue)
+### 💻 Software Developer | Full-Stack Engineer
 
-<hr>
+I am a Software Developer with a strong background in architecting high-availability systems, modernizing legacy codebases, and delivering enterprise-scale solutions. With dual-competency in software engineering and technical project leadership, I specialize in building robust backends with **Java & Spring Boot** and dynamic frontends with **React & TypeScript**.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanl16&repo=mcda5550_a00476407_myhotelapp&theme=shadow_blue)](https://github.com/kamanl16/MCDA5550_A00476407_MyHotelApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanl16&repo=react_pwa_assignment&theme=shadow_blue)](https://github.com/kamanl16/react_pwa_assignment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamanl16&repo=React_Native_assignment&theme=shadow_blue)](https://github.com/kamanl16/react_native_assignment)
+---
 
-<hr>
+### 🛠️ Tech Stack & Tools
 
-<!---
-kamanl16/kamanl16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Frontend:** React, TypeScript, JavaScript, HTML/CSS, Android SDK
+* **Backend:** Java, Spring Boot, Python, Django, C++, REST APIs
+* **Database & Data:** SQL, MySQL, MongoDB, Elasticsearch, Kafka
+* **DevOps & Architecture:** Docker, AWS, Git, Jenkins, Microservices, CI/CD
+
+---
+
+### 🚀 Featured Projects
+
+* 🏨 **[Full-Stack Hotel Reservation System](https://github.com/kamanl16/MCDA5550_A00476407_MyHotelApp)**
+    * *Java, Spring Boot, Android SDK, MySQL*
+    * Architected a complete hotel reservation platform featuring a robust Spring Data JPA backend and a native Android client utilizing Retrofit for API communication.
+* 📱 **[React PWA Assignment](https://github.com/kamanl16/react_pwa_assignment)**
+    * *React, Progressive Web App Design*
+    * A responsive, installable web application demonstrating modern offline-first capabilities and responsive UI components.
+* ⚛️ **[React Native Assignment](https://github.com/kamanl16/react_native_assignment)**
+    * *React Native, Mobile Development*
+    * Cross-platform mobile application showcasing mobile-specific UI/UX patterns and component lifecycles.
+* 🎙️ **HLC Literacy Assessment Web App**
+    * *React, TypeScript, Django, Docker*
+    * Built a containerized Single Page Application integrating frontend audio recording with backend Machine Learning APIs for automated pronunciation grading.
+
+---
+
+### 📫 Let's Connect
+
+* 💼 **LinkedIn:** [linkedin.com/in/kamanl16](https://www.linkedin.com/in/kamanl16/)
+* 🌐 **Portfolio:** [Check out my live portfolio](kamanl16.github.io/my-portfolio/)
+* ✉️ **Email:** kaman.leung.ca@gmail.com
